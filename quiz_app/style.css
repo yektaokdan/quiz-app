@@ -1,0 +1,15 @@
+#buttons button:hover{
+    background-color: rgb(103, 207, 255);
+    color: black;
+    border-radius: 12px;
+    transition: all 0.3s ease 0s;
+}
+
+.container{
+    font-size: 50px;
+    background-color: white;
+}
+
+body{
+    background-color: rgb(58, 193, 255);
+}
